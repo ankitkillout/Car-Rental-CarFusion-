@@ -1,4 +1,4 @@
-Features
+📄 Pages Included in This Repository
 This project includes the following core pages:
 
 1. Sign In and Sign Up Pages
